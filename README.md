@@ -1,3 +1,2 @@
-## Exploratory Data Analysis with Python
+## Repo containing some practice that I've made with python - Exploratory Data Analysis with Python and webscraping Indeed job board.
 
-Dataset "Suicide Rates Overview from 1985 to 2016" from kaggle: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016 
